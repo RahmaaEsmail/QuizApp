@@ -1,0 +1,54 @@
+.quiz-app{
+    background-color: #fafafa;
+}
+.quiz-answer .answer{
+    background-color: #f9f9f9;
+}
+
+.quiz-answer .answer:not(:last-child)
+{
+    border-bottom: 1px solid #dfdfdf;
+}
+
+.quiz-answer .answer input[type='radio']:checked +label{
+    color: #0075ff;
+}
+.quiz-answer .answer label{
+    cursor: pointer;
+    font-weight: bold;
+    color: #777;
+    position: relative;
+    top: -2px;
+}
+.submit{
+    background-color: #0075ff;
+    color: white !important;
+    width: 100%;
+}
+.bullets{
+    background-color: white;
+    border-top: 1px solid #dfdfdf;
+    display: flex;
+}
+.bullets .spans{
+    display: flex;
+}
+.bullets .spans span{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #DDD;
+    margin-left: 5px;
+}
+.bullets .spans  .on{
+    background-color: #0075ff;
+}
+.result span.bad{
+    color: #dc0a0a;
+}
+.result span.good{
+    color: #009688;
+}
+.result span.perfect{
+    color: #0075ff;
+}

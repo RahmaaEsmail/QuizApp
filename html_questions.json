@@ -1,0 +1,91 @@
+[
+    {
+        "title":"HTML stands for",
+         "answer_1":"HighText Machine Language",
+         "answer_2":"HyperText and links Markup Language",
+         "answer_3":"HyperText Markup Language",
+         "answer_4":"None of these",
+         "right_answer":"HyperText Markup Language"
+    },
+
+    {
+        "title":"Which of the following tag is used for inserting the largest heading in HTML?",
+         "answer_1":"head",
+         "answer_2":"<h1>",
+         "answer_3":"<h6>",
+         "answer_4":"heading",
+         "right_answer":"<h1>"
+    },
+
+    {
+        "title":"In which part of the HTML metadata is contained?",
+         "answer_1":"head tag",
+         "answer_2":"html tag",
+         "answer_3":"title tag",
+         "answer_4":"body tag",
+         "right_answer":"head tag"
+    },
+
+    {
+        "title":" How do we write comments in HTML?",
+         "answer_1":"</…….>",
+         "answer_2":"<!……>",
+         "answer_3":"</……/>",
+         "answer_4":"<…….!>",
+         "right_answer":"<!……>"
+    },
+
+    {
+        "title":" Which HTML tag is used to insert an image?",
+         "answer_1":"<img url=”htmllogo.jpg” />",
+         "answer_2":"<img alt=”htmllogo.jpg” />",
+         "answer_3":"<img src=”htmllogo.jpg” />",
+         "answer_4":"<img link=”htmllogo.jpg” />",
+         "right_answer":"<img src=”htmllogo.jpg” />"
+    },
+
+    {
+        "title":"In HTML, which attribute is used to create a link that opens in a new window tab",
+         "answer_1":"src=”_blank”",
+         "answer_2":"alt=”_blank”",
+         "answer_3":"target=”_self”",
+         "answer_4":"target=”_blank”",
+         "right_answer":"target=”_blank"
+    },
+
+    {
+        "title":"Which of the following tag is used to create a text area in HTML Form?",
+         "answer_1":"<textarea> </textarea>",
+         "answer_2":"<text></text>",
+         "answer_3":"<input type=”text” />",
+         "answer_4":"<input type=”textarea” />",
+         "right_answer":"<textarea> </textarea>"
+    },
+
+    {
+        "title":"Which tag is used to create a numbered list in HTML?",
+         "answer_1":"<ol>",
+         "answer_2":"<ul>",
+         "answer_3":"<li>",
+         "answer_4":"<ll>",
+         "right_answer":"<ol>"
+    },
+
+    {
+        "title":"Which of the following extension is used to save an HTML file?",
+         "answer_1":".hl",
+         "answer_2":".h",
+         "answer_3":".htl",
+         "answer_4":".html",
+         "right_answer":".html"
+    },
+
+    {
+        "title":"Which of the following element is responsible for making the text bold in HTML?",
+         "answer_1":"<pre>",
+         "answer_2":"<a>",
+         "answer_3":"<b>",
+         "answer_4":"<br>",
+         "right_answer":"<b>"
+    }
+]
